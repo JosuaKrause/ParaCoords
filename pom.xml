@@ -36,5 +36,16 @@
 			<version>4.8.2</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>joschi-mvn</groupId>
+			<artifactId>JKanvas</artifactId>
+			<version>0.0.1</version>
+		</dependency>
 	</dependencies>
+	<repositories>
+		<repository>
+			<id>joschi</id>
+			<url>http://http://merkur57.inf.uni-konstanz.de/~krause/mvn/releases</url>
+		</repository>
+	</repositories>
 </project>
